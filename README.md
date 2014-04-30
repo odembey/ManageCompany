@@ -26,6 +26,8 @@ It's a little project to integrate differents technologies such as :
   Build Manager : Maven
   
   Ide : IntelliJ
+  
+-----------------------------------------------------------------
 
 Created by Mohamed Obey
 
