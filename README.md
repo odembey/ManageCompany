@@ -21,9 +21,9 @@ It's a little project to integrate differents technologies such as :
   
   Data base : HSQL
   
-  Server : Tomcat
+  Web application container : Tomcat
   
-  Build Manager : Maven
+  Build Manager : Maven 3.0.1
   
   Ide : IntelliJ
   
